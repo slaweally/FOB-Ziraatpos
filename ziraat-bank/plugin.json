@@ -1,0 +1,13 @@
+{
+    "id": "ziraat-bank/ziraat-bank",
+    "name": "Ziraat Bank",
+    "namespace": "Botble\\ZiraatBank\\",
+    "provider": "Botble\\ZiraatBank\\Providers\\ZiraatBankServiceProvider",
+    "author": "Botble",
+    "url": "https://botble.com",
+    "version": "1.0.0",
+    "description": "Ziraat Bankası sanal POS entegrasyonu",
+    "minimum_core_version": "7.0.0",
+    "require": ["invoice-payment/invoice-payment"]
+}
+
